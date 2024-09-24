@@ -9,5 +9,6 @@ public class Q1_Pattern {
             }
             System.out.println();
         }
+        System.out.println("Aariyan");
     }
 }
